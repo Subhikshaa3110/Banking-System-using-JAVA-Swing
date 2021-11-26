@@ -1,5 +1,5 @@
 # Banking-System-using-JAVA-Swing
- This is a window-based application that accomplishes all basic tasks of a banking system like adding a new account, withdrawing, and depositing money, getting a receipt in pdf form, etc. It was built in Eclipse with java swing and splash.
+ This is a window-based application that accomplishes all basic tasks of a banking system like adding a new account, withdrawing, and depositing money, getting a receipt in pdf form, etc. You can even change the layout of the application. It was built in Eclipse with java swing and splash.
  
  # Output
  These are few screenshots from the window based application.
